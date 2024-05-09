@@ -9,6 +9,7 @@ body {
             padding: 20px;
             text-align: center;
             position: fixed;
+            width: 100%;
         }
         nav {
             background-color: #f4f4f4;
